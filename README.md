@@ -2,6 +2,7 @@
 
 以下时间为更新时间，不代表漏洞发现时间.带 ⚒️图标的为工具URL.
 
+- ⚒️ [Dark-Moon](https://github.com/ASCIT31/Dark-Moon)：开源自托管自主式 AI 渗透平台，跨 Web/API/AD/Kubernetes 编排侦察与利用，MCP，本地隐私令牌化。
 配合EHole(棱洞)-红队重点攻击系统指纹探测工具使用效果更佳：https://github.com/EdgeSecurityTeam/EHole
 
 ## 一、OA系统
